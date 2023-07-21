@@ -1,6 +1,6 @@
 ---
 repository:
-  name: loki
+  name: ansible-loki
   description: Ansible role to install and configure loki
   topics: ansible, role, ansible-role, hacktoberfest
 
