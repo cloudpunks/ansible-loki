@@ -1,5 +1,11 @@
 # Changelog
 
+## [6.4.1](https://github.com/rolehippie/loki/compare/v6.4.0...v6.4.1) (2026-08-24)
+
+### Dependencies
+
+* **patch:** update dependency oauth2-proxy/oauth2-proxy to v7.15.4 ([#139](https://github.com/rolehippie/loki/issues/139)) ([d7d0425](https://github.com/rolehippie/loki/commit/d7d0425ccc9a2b10709134c3bfb916dc0738b811))
+
 ## [6.4.0](https://github.com/rolehippie/loki/compare/v6.3.0...v6.4.0) (2026-08-17)
 
 ### Dependencies
