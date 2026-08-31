@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.4.2](https://github.com/rolehippie/loki/compare/v6.4.1...v6.4.2) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency grafana/loki to v3.7.7 ([#140](https://github.com/rolehippie/loki/issues/140)) ([73adc27](https://github.com/rolehippie/loki/commit/73adc273fa8708af5a37e2574adc707d13d813ad))
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#141](https://github.com/rolehippie/loki/issues/141)) ([b8cf0dc](https://github.com/rolehippie/loki/commit/b8cf0dc60a651c6f5a0962dd8a916c4b45d2e1da))
+
 ## [6.4.1](https://github.com/rolehippie/loki/compare/v6.4.0...v6.4.1) (2026-08-24)
 
 ### Dependencies
